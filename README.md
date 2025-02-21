@@ -1,8 +1,6 @@
-# Nvim-material-icon
+# Material-Icons.nvim
 
 ## 1624 file types supported (require Nerd Font >= 3.2.0)
-
-## 🎉🎉 Big update! Now supports nvim-tree, bufferline, lualine...
 
 An improved version of [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
 
