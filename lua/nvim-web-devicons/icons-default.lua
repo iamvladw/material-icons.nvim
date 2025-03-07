@@ -1915,7 +1915,7 @@ local icons_by_filename = {
 	},
 	[".github"] = {
 		icon = "",
-		color = "#840884",
+		color = "#9eaeb5",
 		name = ".github",
 	},
 	["go.mod"] = {
